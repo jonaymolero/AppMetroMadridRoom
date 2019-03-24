@@ -1,13 +1,9 @@
-package net.azarquiel.metroroom.util
+package net.azarquiel.guiametromadrid.utilidades
 
 import android.content.Context
 import android.util.Log
 import android.widget.Toast
 import java.io.*
-
-/**
- * Autor: Paco Pulido 8/11/2018
- */
 
 class Util {
     companion object {

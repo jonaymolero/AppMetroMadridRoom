@@ -12,7 +12,7 @@ import net.azarquiel.guiametromadrid.R
 import net.azarquiel.guiametromadrid.adapter.CustomAdapter
 import net.azarquiel.guiametromadrid.model.LineaView
 import net.azarquiel.guiametromadrid.model.ViewLineaViewModel
-import net.azarquiel.metroroom.util.Util
+import net.azarquiel.guiametromadrid.utilidades.Util
 
 class MainActivity : AppCompatActivity() {
 
